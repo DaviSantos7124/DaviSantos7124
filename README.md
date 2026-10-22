@@ -55,6 +55,6 @@ Sistema de gerenciamento e reserva de laboratórios de informática, desenvolvid
 
 <div align="center">
 
-*Transformando aprendizado em projetos, um passo de cada vez.* 🚀
+*Transformando aprendizado em projetos, um passo de cada vez.*
 
 </div>
