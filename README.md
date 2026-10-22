@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Davi Santos!
+# 👋🏾 Olá, eu sou o Davi Santos!
 
-💻 Estudante de **Desenvolvimento de Sistemas** na ETEC de Itanhaém, SP 🇧🇷
+💻 Estudante de **DesenvolvimentoN de Sistemas** na ETEC de Itanhaém, SP 🇧🇷
 
 Tenho interesse em tecnologia e programação, e estou sempre buscando aprender coisas novas e desenvolver projetos para colocar meus conhecimentos em prática.
 
